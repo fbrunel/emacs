@@ -1,0 +1,3 @@
+[submodule "vendor/slime"]
+	path = vendor/slime
+	url = git://git.boinkor.net/slime.git
